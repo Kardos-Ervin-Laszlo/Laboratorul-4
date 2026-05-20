@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cg.bouncycube"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <application
+11-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:4:5-21:19
+12        android:allowBackup="true"
+12-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:5:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="true"
+15        android:label="Lab4 Lights"
+15-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:6:9-36
+16        android:supportsRtl="true"
+16-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:7:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:8:9-40
+19        <activity
+19-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:10:9-20:20
+20            android:name="cg.bouncycube.BouncyCubeActivity"
+20-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:11:13-47
+21            android:exported="true"
+21-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:12:13-36
+22            android:screenOrientation="portrait" >
+22-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:13:13-49
+23            <intent-filter>
+23-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:15:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:16:17-69
+24-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:17:17-77
+26-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 4 BouncyCubeLights\app\src\main\AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
